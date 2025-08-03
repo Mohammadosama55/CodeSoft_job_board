@@ -93,15 +93,9 @@ A comprehensive job board platform built with React, Node.js, and MongoDB. This 
    # MongoDB Configuration
    MONGODB_URI=mongodb://localhost:27017/job-board
    
-   # JWT Configuration
-   JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
+  
    
-   # Email Configuration (optional)
-   EMAIL_HOST=smtp.gmail.com
-   EMAIL_PORT=587
-   EMAIL_USER=your-email@gmail.com
-   EMAIL_PASS=your-app-password
-   ```
+   
 
 5. **Start MongoDB**
    ```bash
